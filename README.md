@@ -1,6 +1,6 @@
 # auth_soloProject
 
-Heroku ready
+Heroku ready - MIRROR THIS PROJECT FOR FUTURE PROJECTS, DO NOT EDIT
 
 Navigate to your application's Heroku dashboard.
 
