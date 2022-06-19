@@ -1,4 +1,4 @@
-# auth_soloProject
+# auth_soloProject (set up Ready!)
 
 Heroku ready - MIRROR THIS PROJECT FOR FUTURE PROJECTS, DO NOT EDIT
 
