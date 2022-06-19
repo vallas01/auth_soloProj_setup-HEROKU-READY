@@ -22,6 +22,8 @@ You can also set environment variables through the Heroku CLI you installed earl
 Push your project to Heroku.
     git push heroku
 
+MAKE SURE TO MIGRATE DB AND SEED BEFORE TESTING!!!
+
 To migrate the production database, run:
     heroku run npm run sequelize db:migrate
 
