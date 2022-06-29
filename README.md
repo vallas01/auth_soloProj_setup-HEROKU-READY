@@ -1,6 +1,6 @@
 # auth_soloProject (set up Ready!)
 
-FIRST: mirror this repsoitory (DO NOT EDIT)
+FIRST: mirror this repository (DO NOT EDIT)
 
 1. Open Git Bash.  
 2. Create a bare clone of the repository.  
@@ -11,6 +11,7 @@ $ git push --mirror https://github.com/exampleuser/new-repository.git
 4.Remove the temporary local repository you created earlier.  
 $ cd ..  
 $ rm -rf old-repository.git  
+
 
 
 SECOND: Set up Heroku
