@@ -8,7 +8,7 @@ $ git clone --bare https://github.com/exampleuser/old-repository.git
 3. Mirror-push to the new repository.  
 $ cd old-repository.git  
 $ git push --mirror https://github.com/exampleuser/new-repository.git  
-4.Remove the temporary local repository you created earlier.  
+4. Remove the temporary local repository you created earlier.  
 $ cd ..  
 $ rm -rf old-repository.git  
 
