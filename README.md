@@ -16,8 +16,10 @@ $ rm -rf old-repository.git
 
   
   
+SECOND:
+npm install  
 
-SECOND: Set up Heroku
+THIRD: Set up Heroku
 
 Navigate to your application's Heroku dashboard.
 
